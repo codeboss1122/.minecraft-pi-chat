@@ -16,3 +16,6 @@ sudo chmod 777 chat
 4) run:
 
 ./chat
+
+5) type your in game username.
+6) you can now chat.
