@@ -2,7 +2,7 @@ from mcpi.minecraft import Minecraft
 
 l = ','
 
-n = (input('what is your username? >'))
+n = (input('what is your minecraft username? >'))
 
 b = 1
 while True:
