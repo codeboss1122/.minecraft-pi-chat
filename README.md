@@ -8,7 +8,7 @@ how to install:
 
 sudo git clone https://github.com/codeboss1122/.minecraft-pi-chat.git
 
-sudo mv /home/pi/minecraft-pi-chat/chat /home/pi/
+sudo mv /home/pi/.minecraft-pi-chat/chat /home/pi/
 
 sudo chmod 777 chat
 
