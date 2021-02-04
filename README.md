@@ -12,7 +12,7 @@ sudo mv /home/pi/.minecraft-pi-chat/chat /home/pi/
 
 sudo chmod 777 chat
 
-3) make sure that minecraft is open and you are in a world.
+3) make sure that minecraft is open and you are in a world, press the 'tab' key to release your mouse.
 4) run:
 
 ./chat
