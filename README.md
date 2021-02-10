@@ -19,3 +19,5 @@ sudo chmod 777 chat
 
 5) type your in game username.
 6) you can now chat.
+
+notes: There is a 3 second delay between sending a chat message and it showing in chat. this is to stop spamming. If the same message is sent in chat 3 times in a row it will exit the program. This is also a measure to stop spam.
