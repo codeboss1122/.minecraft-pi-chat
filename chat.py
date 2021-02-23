@@ -40,6 +40,31 @@ while True:
      time.sleep(3)
 
      mcb.postToChat(cb)
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
      j = "was temp muted for spamming" 
      no = (n, ",,",  j, ",", inp)
 
