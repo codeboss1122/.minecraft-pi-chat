@@ -1,1 +1,3 @@
+#!/bin/bash
+
 sudo python3 /home/pi/.minecraft-pi-chat/chat.py
