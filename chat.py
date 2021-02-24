@@ -15,7 +15,7 @@ while True:
 
      i = (input('>'))
 
-     c = (n,  l,  i)
+     c = (l,  i)
 
      time.sleep(3)
 
@@ -25,7 +25,7 @@ while True:
 
      inp = (input('>'))
 
-     ca = (n,  l,  inp)
+     ca = (l,  inp)
 
      time.sleep(3)
 
@@ -35,7 +35,7 @@ while True:
 
      inpu = (input('>'))
 
-     cb = (n,  l,  i)
+     cb = (l,  i)
      
      time.sleep(3)
 
