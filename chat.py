@@ -1,6 +1,6 @@
 from mcpi.minecraft import Minecraft
 import time
-l = ','
+l = ''
 
 
 
@@ -15,7 +15,7 @@ while True:
 
      i = (input('>'))
 
-     c = (l,  i)
+     c = (i)
 
      time.sleep(3)
 
@@ -25,7 +25,7 @@ while True:
 
      inp = (input('>'))
 
-     ca = (l,  inp)
+     ca = (inp)
 
      time.sleep(3)
 
@@ -35,7 +35,7 @@ while True:
 
      inpu = (input('>'))
 
-     cb = (l,  i)
+     cb = (i)
      
      time.sleep(3)
 
